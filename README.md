@@ -1,7 +1,7 @@
 # Hackathon 2024 👨‍💻️
 
 ## Hvor
-Nasjonalbiblioteket v/ Solli plass
+Nasjonalbiblioteket v/ Solli plass  
 Møterom 70, inngang fra Observatoriegata 
 
 ## Når 
