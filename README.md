@@ -14,7 +14,7 @@ Bli kjent med våre ressurser for språkteknologi og digital humaniora ved å pr
 Eksempler på hva man kan gjøre:
 - utforsk om tekster er mer kjønnsnøytrale nå enn før
 - bygg en embedding-drevet søkemotor på dokumenter som har falt i det fri
-- sammenlikn innholdet i nettaviser med papiraviser 
+- sammenlikn innholdet i nettaviser med papirutgaven
 - lag en app hvor du kan teste uttalen din mot NB-Whisper (klarer modellen å forstå din dialekt?)
 
 ### Tidsplan
