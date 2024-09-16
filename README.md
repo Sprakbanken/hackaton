@@ -30,7 +30,7 @@ Eksempler på hva man kan gjøre:
 - 12:30 : Hackinga fortsetter
 - 15:30 : Avslutning: Hvordan gikk det? Gruppene presenterer (kort) det de har laget
 
-Under hele hackathonet vil vi være tilgjengelig for å hjelpe.  
+Under hele hackatonet vil vi være tilgjengelig for å hjelpe.  
 Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker som det skal! 
 
 ## Slides, lenker og annen info
