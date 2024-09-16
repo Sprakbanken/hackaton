@@ -1,4 +1,4 @@
-# Hackathon 2024 👨‍💻️
+# Hackaton 2024 👨‍💻️
 
 ## Hvor
 Nasjonalbiblioteket v/ Solli plass  
@@ -8,7 +8,7 @@ Møterom 70, inngang fra Observatoriegata
 7.November kl 9:30~16:00 
 
 ## Hva 
-Språkbanken og dhlaben ved Nasjonalbiblioteket inviterer til hackathon!  
+Språkbanken og dhlaben ved Nasjonalbiblioteket inviterer til hackaton!  
 Bli kjent med våre ressurser for språkteknologi og digital humaniora ved å progge/bygge med dem.  
 
 Eksempler på hva man kan gjøre:
