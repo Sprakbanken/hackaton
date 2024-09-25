@@ -11,11 +11,14 @@ Møterom 70, inngang fra Observatoriegata
 Språkbanken og dhlaben ved Nasjonalbiblioteket inviterer til hackaton!  
 Bli kjent med våre ressurser for språkteknologi og digital humaniora ved å progge/bygge med dem.  
 
+Gruppene velger selv hva de vil jobbe med, og vi bistår med støtte underveis.
+
 Eksempler på hva man kan gjøre:
 - utforsk om tekster er mer kjønnsnøytrale nå enn før
 - bygg en embedding-drevet søkemotor på dokumenter som har falt i det fri
 - sammenlikn innholdet i nettaviser med papirutgaven
 - lag en app hvor du kan teste uttalen din mot NB-Whisper (klarer modellen å forstå din dialekt?)
+
 
 ### Tidsplan
 - 09:30 : Dørene åpner, kaffe
