@@ -26,7 +26,7 @@ Eksempler på hva man kan gjøre:
   - [whisper](https://huggingface.co/collections/NbAiLab/nb-whisper-65cb8322877f943912afcd9f) og andre språkmodeller
   - [nettbiblioteket](https://www.nb.no/search) og deres [api](https://api.nb.no/)
 - 10:45 : Gruppene samles og hackinga starter!
-- 12:00 : Felles lunsj i kantina (kan ha medbrakt mat eller kjøpe fra kantina/Credo)
+- 12:00 : Felles lunsj
 - 12:30 : Hackinga fortsetter
 - 15:30 : Avslutning: Hvordan gikk det? Gruppene presenterer (kort) det de har laget
 
