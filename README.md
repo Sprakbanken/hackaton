@@ -48,8 +48,11 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 ### Nyttige ressurser
 - [DHlab examples of use](https://dhlab.readthedocs.io/en/stable/docs_example_use.html) 
 - [Apper fra DH-laben](https://www.nb.no/dh-lab/apper/)
+- [Nasjonalbiblioteket sin github](https://github.com/NationalLibraryOfNorway)
 - [Språkbanken sin github](https://github.com/Sprakbanken)
 - [NB tokenizer](https://pypi.org/project/nb_tokenizer/)
+- [AIlaben på huggingface](https://huggingface.co/NbAiLab)
+- [Språkbanken på huggingface](https://huggingface.co/Sprakbanken)
 
 
 
