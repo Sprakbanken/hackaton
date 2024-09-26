@@ -38,7 +38,7 @@ Eksempler på hva man kan gjøre:
 Under hele hackatonet vil vi være tilgjengelig for å hjelpe.  
 Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker som det skal! 
 
-## Slides, lenker og annen info
+## Slides, lenker og annen info (oppdateres etterhvert)
 - [Slides fra intro](tbd)
 
 ### Nyttige ressurser
