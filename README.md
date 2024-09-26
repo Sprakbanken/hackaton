@@ -1,4 +1,5 @@
 # Hackaton 2024 👨‍💻️
+https://www.nb.no/hva-skjer/hackaton-med-sprakbank-og-dhlab/
 
 ## Hvor
 Nasjonalbiblioteket v/ Solli plass  
