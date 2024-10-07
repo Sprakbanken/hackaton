@@ -46,7 +46,8 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 - [Slides fra intro](tbd)
 
 ### Nyttige ressurser
-- [DHlab examples of use](https://dhlab.readthedocs.io/en/stable/docs_example_use.html) 
+- [DHlab examples of use](https://dhlab.readthedocs.io/en/stable/docs_example_use.html)
+- [DHlab tutorial](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html)
 - [Apper fra DH-laben](https://www.nb.no/dh-lab/apper/)
 - [Nasjonalbiblioteket sin github](https://github.com/NationalLibraryOfNorway)
 - [Språkbanken sin github](https://github.com/Sprakbanken)
