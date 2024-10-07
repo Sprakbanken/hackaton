@@ -45,7 +45,7 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 ## Slides, lenker og annen info (oppdateres etterhvert)
 - [Slides fra intro](tbd)
 
-### Nyttige ressurser
+### Nyttige ressurser fra NB
 - [DHlab examples of use](https://dhlab.readthedocs.io/en/stable/docs_example_use.html)
 - [DHlab tutorial](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html)
 - [Apper fra DH-laben](https://www.nb.no/dh-lab/apper/)
@@ -55,6 +55,9 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 - [AIlaben på huggingface](https://huggingface.co/NbAiLab)
 - [Språkbanken på huggingface](https://huggingface.co/Sprakbanken)
 
-
+### Andre nyttige ressurser
+- Intro til klassisk språkteknologi: [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
+- [Dokumentasjon av transformers-biblioteket](https://huggingface.co/docs/transformers/index)
+- Gratis GPU-ressurser på [Google Colab](https://colab.research.google.com/)
 
   
