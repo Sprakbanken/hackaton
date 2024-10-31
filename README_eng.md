@@ -25,7 +25,8 @@ Examples of what you could do:
 - 09:45 : Introduction: What is NLN and who are we?
 - 09:55 : Presentation av NLNs digital resources:
   - [dhlab-api](https://api.nb.no/dhlab/) / [pypi-package](https://pypi.org/project/dhlab/)
-  - [the resource catalogue](https://pypi.org/project/dhlab/)
+  - images and multimodal embeddings
+  - [the resource catalogue](https://www.nb.no/sprakbanken/en/resource-catalogue/)
   - [whisper](https://huggingface.co/collections/NbAiLab/nb-whisper-65cb8322877f943912afcd9f) and other language models
   - [the online library](https://www.nb.no/search) and their [api](https://api.nb.no/)
 - 10:45 : The groups gather and the hacking begins!
@@ -39,12 +40,22 @@ We encourage you to make github-issues if something doesn't work as it should!
 ## Slides, links and other info (will be updated)
 - [Slides from intro](tbd)
 
-### Useful resources
-- [DHlab examples of use](https://dhlab.readthedocs.io/en/stable/docs_example_use.html) 
-- [Apps from the DH-lab](https://www.nb.no/dh-lab/apper/)
-- [Language bank github account](https://github.com/Sprakbanken)
+### Useful resources from NLN
+- [DHlab examples of use](https://nationallibraryofnorway.github.io/DHLAB/docs_example_use.html)
+- [DHlab tutorial](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html)
+- [Apps from DH-lab](https://www.nb.no/dh-lab/apper/)
+- [NLN's github](https://github.com/NationalLibraryOfNorway)
+- [The language bank's github](https://github.com/Sprakbanken)
 - [NB tokenizer](https://pypi.org/project/nb_tokenizer/)
+- [The AI-lab on huggingface](https://huggingface.co/NbAiLab)
+- [The language bank on huggingface](https://huggingface.co/Sprakbanken)
 
-
+### Other useful resources
+- Intro to classic NLP: [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
+- [Documentation of the transformers-library](https://huggingface.co/docs/transformers/index)
+- Free GPU-resources at [Google Colab](https://colab.research.google.com/)
+- [Databehandling og analyse med python](https://mich123prem.github.io/python4abm/intro.html)
+- Language Technology Group (University of Oslo) on [huggingface](https://huggingface.co/ltg)
+- NorwAI (NTNU) on [huggingface](https://huggingface.co/NorwAI)
 
   
