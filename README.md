@@ -31,12 +31,13 @@ Eksempler på hva man kan gjøre:
 - 09:45 : Introduksjon: Hva er Nasjonalbiblioteket og hvem er vi?
 - 09:55 : Presentasjon av NBs digitale ressurser:
   - [dhlab-api](https://api.nb.no/dhlab/) / [pypi-pakke](https://pypi.org/project/dhlab/)
-  - [ressurskatalogen](https://pypi.org/project/dhlab/)
+  - bildemateriale og multimodale embeddings 
+  - [ressurskatalogen](https://www.nb.no/sprakbanken/ressurskatalog/)
   - [whisper](https://huggingface.co/collections/NbAiLab/nb-whisper-65cb8322877f943912afcd9f) og andre språkmodeller
   - [nettbiblioteket](https://www.nb.no/search) og deres [api](https://api.nb.no/)
 - 10:45 : Gruppene samles og hackinga starter!
 - 12:00 : Felles lunsj
-- 12:30 : Hackinga fortsetter
+- 13:00 : Hackinga fortsetter
 - 15:30 : Avslutning: Hvordan gikk det? Gruppene presenterer (kort) det de har laget
 
 Under hele hackatonet vil vi være tilgjengelig for å hjelpe.  
