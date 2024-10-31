@@ -61,6 +61,6 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 - [Dokumentasjon av transformers-biblioteket](https://huggingface.co/docs/transformers/index)
 - Gratis GPU-ressurser på [Google Colab](https://colab.research.google.com/)
 - [Databehandling og analyse med python](https://mich123prem.github.io/python4abm/intro.html)
- 
-
+- Språkteknologigruppa på UiO på [huggingface](https://huggingface.co/ltg)
+- NorwAI (NTNU) på [huggingface](https://huggingface.co/NorwAI)
   
