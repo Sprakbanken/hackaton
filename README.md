@@ -56,6 +56,8 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 - [NB tokenizer](https://pypi.org/project/nb_tokenizer/)
 - [AIlaben på huggingface](https://huggingface.co/NbAiLab)
 - [Språkbanken på huggingface](https://huggingface.co/Sprakbanken)
+- Fulltekst-api (funker for urn-er til tekster som ikke er beskyttet av oppgavsrett) https://api.nb.no/dhlab/freetext/get_text?urn=<URN>  eks: [https://api.nb.no/dhlab/freetext/get_text?urn=URN:NBN:no-nb_digibok_2010070920001](https://api.nb.no/dhlab/freetext/get_text?urn=URN:NBN:no-nb_digibok_2010070920001)
+ 
 
 ### Andre nyttige ressurser
 - Intro til klassisk språkteknologi: [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](https://www.nltk.org/book/)
