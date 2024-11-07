@@ -1,0 +1,9 @@
+jupyter>=1.1.1  # To have a notebook
+pandas>=2.2.3  # To load metadata
+pyarrow>=18.0.0  # To load metadata
+pillow>=11.0.0  # To load images
+numpy<2.1,>=2  # To get embedding matrix
+transformers>=4.46.2  # To compute new SigLIP embedding vectors
+torch>=2.5.1  # To compute new SigLIP embedding vectors
+sentencepiece>=0.2.0  # To compute new SigLIP embedding vectors
+protobuf>=5.28.3  # To compute new SigLIP embedding vectors

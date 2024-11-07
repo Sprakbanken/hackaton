@@ -31,7 +31,7 @@ Eksempler på hva man kan gjøre:
 - 09:45 : Introduksjon: Hva er Nasjonalbiblioteket og hvem er vi?
 - 09:55 : Presentasjon av NBs digitale ressurser:
   - [dhlab-api](https://api.nb.no/dhlab/) / [pypi-pakke](https://pypi.org/project/dhlab/)
-  - bildemateriale og multimodale embeddings 
+  - [bildemateriale og multimodale embeddings](bildedata/README.md)
   - [ressurskatalogen](https://www.nb.no/sprakbanken/ressurskatalog/)
   - [whisper](https://huggingface.co/collections/NbAiLab/nb-whisper-65cb8322877f943912afcd9f) og andre språkmodeller
   - [nettbiblioteket](https://www.nb.no/search) og deres [api](https://api.nb.no/)

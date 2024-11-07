@@ -25,7 +25,7 @@ Examples of what you could do:
 - 09:45 : Introduction: What is NLN and who are we?
 - 09:55 : Presentation av NLNs digital resources:
   - [dhlab-api](https://api.nb.no/dhlab/) / [pypi-package](https://pypi.org/project/dhlab/)
-  - images and multimodal embeddings
+  - [images and multimodal embeddings](bildedata/README.md)
   - [the resource catalogue](https://www.nb.no/sprakbanken/en/resource-catalogue/)
   - [whisper](https://huggingface.co/collections/NbAiLab/nb-whisper-65cb8322877f943912afcd9f) and other language models
   - [the online library](https://www.nb.no/search) and their [api](https://api.nb.no/)
