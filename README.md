@@ -49,6 +49,7 @@ Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker so
 ### Nyttige ressurser fra NB
 - [DHlab examples of use](https://nationallibraryofnorway.github.io/DHLAB/docs_example_use.html)
 - [DHlab tutorial](https://nationallibraryofnorway.github.io/digital_tekstanalyse/tutorial.html)
+- NYHET: [Nettavis-korpuset](https://www.nb.no/en/collection/web-archive/research/web-news-corpus/)
 - [Apper fra DH-laben](https://www.nb.no/dh-lab/apper/)
 - [Nasjonalbiblioteket sin github](https://github.com/NationalLibraryOfNorway)
 - [Språkbanken sin github](https://github.com/Sprakbanken)
