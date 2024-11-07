@@ -44,7 +44,7 @@ Under hele hackatonet vil vi være tilgjengelig for å hjelpe.
 Vi oppmuntrer til at dere lager github-issues hvis det er noe som ikke funker som det skal! 
 
 ## Slides, lenker og annen info (oppdateres etterhvert)
-- [Slides fra intro](tbd)
+- [Slides fra intro](slides.pdf)
 
 ### Nyttige ressurser fra NB
 - [DHlab examples of use](https://nationallibraryofnorway.github.io/DHLAB/docs_example_use.html)
