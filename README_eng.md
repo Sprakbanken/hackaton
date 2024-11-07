@@ -38,7 +38,7 @@ We will be present to answer any questions during the whole hackathon.
 We encourage you to make github-issues if something doesn't work as it should!
 
 ## Slides, links and other info (will be updated)
-- [Slides from intro](tbd)
+- [Slides from intro](slides.pdf)
 
 ### Useful resources from NLN
 - [DHlab examples of use](https://nationallibraryofnorway.github.io/DHLAB/docs_example_use.html)
