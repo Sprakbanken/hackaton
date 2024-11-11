@@ -10,6 +10,8 @@
 - tydelig kommunisere til deltakere fra start om forventninger til presentasjon på slutten
     - hva har de drevet med/laget?
     - hva har de lært?
+ 
+- mer felles gjennomgang underveis, kan knytte sammen grupper med liknende problemstillinger 
 
 ## Orging
 - inkludere alle parter som skal snakke i planleggingen
